@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Aile\Desktop\C\break计算面积\break计算面积\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Aile\Desktop\C\break计算面积\break计算面积\Source.cpp(10,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  break计算面积.vcxproj -> C:\Users\Aile\Desktop\C\break计算面积\Debug\break计算面积.exe

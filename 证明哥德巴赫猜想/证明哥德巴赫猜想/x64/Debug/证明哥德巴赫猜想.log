@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\VS\证明哥德巴赫猜想\证明哥德巴赫猜想\Source.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\VS\证明哥德巴赫猜想\证明哥德巴赫猜想\Source.cpp(15): warning C4715: 'Goldbach': not all control paths return a value
+  证明哥德巴赫猜想.vcxproj -> D:\VS\证明哥德巴赫猜想\x64\Debug\证明哥德巴赫猜想.exe

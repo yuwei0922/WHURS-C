@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS\写文件\写文件\Source.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  写文件.vcxproj -> D:\VS\写文件\x64\Debug\写文件.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS\选手得分\选手得分\Source.cpp(36,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  选手得分.vcxproj -> D:\VS\选手得分\Debug\选手得分.exe

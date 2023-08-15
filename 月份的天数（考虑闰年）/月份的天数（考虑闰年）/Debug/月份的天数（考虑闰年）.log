@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS\月份的天数（考虑闰年）\月份的天数（考虑闰年）\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  月份的天数（考虑闰年）.vcxproj -> D:\VS\月份的天数（考虑闰年）\Debug\月份的天数（考虑闰年）.exe

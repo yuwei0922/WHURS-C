@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS\最简因式分解\最简因式分解\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  最简因式分解.vcxproj -> D:\VS\最简因式分解\Debug\最简因式分解.exe
